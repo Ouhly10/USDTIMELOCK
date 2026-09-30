@@ -81,7 +81,3 @@ USDT beneficiary address: 0x85Cde19570cD89bfd657f70fEA0c5727a7b30A37 ,
 ## Disclaimer
 
 This tool interacts directly with smart contracts on a public blockchain. No transaction can be reversed, and no party — including the developer of this tool — can recover funds sent in error. Use it at your own risk, verify contract addresses independently, and start with small amounts on the testnet before using real funds on mainnet.
-
-## License
-
-Copyright 2026. Fully open source — free to use and modify for personal and non-commercial purposes only. Commercial copying or resale is not permitted.
